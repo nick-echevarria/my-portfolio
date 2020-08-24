@@ -1,0 +1,37 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/slicknick/Development/my-portfolio/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_0973e1fa"
+  },
+  {
+    "name": "code",
+    "path": "/code",
+    "component": "/Users/slicknick/Development/my-portfolio/pages/code.vue",
+    "chunkName": "pages/code",
+    "_name": "_1fc62de0"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/Users/slicknick/Development/my-portfolio/pages/contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_7e801fcd"
+  },
+  {
+    "name": "copywriting",
+    "path": "/copywriting",
+    "component": "/Users/slicknick/Development/my-portfolio/pages/copywriting.vue",
+    "chunkName": "pages/copywriting",
+    "_name": "_6b462974"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/slicknick/Development/my-portfolio/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_292bbcbf"
+  }
+]
